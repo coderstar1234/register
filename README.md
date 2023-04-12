@@ -1,7 +1,8 @@
 <h1 align="center">Registration File</h1>
 
 - This repository contains a simple registration file that can be used to collect user information.
-- The registration form includes fields for name, email address, and a password.
+- The registration form includes fields for name, email address, and a password.https://truemaths.com/wp-content/uploads/2019/11/Register_Now.gif
+https://truemaths.com/wp-content/uploads/2019/11/Register_Now.gif
 <hr>
 <h1 align="center">Getting Started</h1>
 
