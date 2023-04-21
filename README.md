@@ -1,4 +1,4 @@
-<h1 align="center">Registration File</h1>
+<h1 align="center">Registration File🧾:-</h1>
 
 - This repository contains a simple registration file that can be used to collect user information.
 - The registration form includes fields for name, email address, and a password.
