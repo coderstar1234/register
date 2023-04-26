@@ -30,7 +30,7 @@
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
 <hr>
-<h1 align="center">Acknowledgments:-</h1>
+<h1 align="center">Acknowledgments:💤💤💤-</h1>
 
 - This registration file was inspired by the tutorials and examples provided on the W3Schools website.
 <hr>
