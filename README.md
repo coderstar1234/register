@@ -10,7 +10,7 @@
 
 - To use this registration file, simply download or clone the repository and open the registration.html file in your web browser.
 <hr>
-<h1 align="center">Usage</h1>
+<h1 align="center">Usage:-🎭</h1>
 
 - When the user submits the registration form, their information is stored in a text file (users.txt) on the server.
 - The users.txt file is located in the same directory as the registration.html file.
