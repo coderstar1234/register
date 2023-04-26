@@ -16,7 +16,7 @@
 - The users.txt file is located in the same directory as the registration.html file.
 - To view the list of registered users, simply open the users.txt file in a text editor.
 <hr>
-<h1 align="center">Customization</h1>
+<h1 align="center">Customization🔧⚙️:-</h1>
 
 - If you would like to customize the registration form, you can edit the registration.html file to add or remove fields as needed.
 - You can also modify the register.php file to change how the user information is processed and stored.
