@@ -6,7 +6,7 @@
 <img height="200" wedith="200" src="https://truemaths.com/wp-content/uploads/2019/11/Register_Now.gif"></p>
 
 <hr>
-<h1 align="center">Getting Started</h1>
+<h1 align="center">Getting Started▶️</h1>
 
 - To use this registration file, simply download or clone the repository and open the registration.html file in your web browser.
 <hr>
