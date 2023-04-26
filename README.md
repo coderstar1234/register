@@ -21,7 +21,7 @@
 - If you would like to customize the registration form, you can edit the registration.html file to add or remove fields as needed.
 - You can also modify the register.php file to change how the user information is processed and stored.
 <hr>
-<h1 align="center">Contributing</h1>
+<h1 align="center">Contributing👫:-</h1>
 
 - If you would like to contribute to this project, please fork the repository and submit a pull request.
 - All contributions are welcome!
